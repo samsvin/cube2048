@@ -1,0 +1,44 @@
+Cubes 2048.io is an addictive online game that fuses Snake and 2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you. Your cubes with the same value that bump into one another will merge.
+
+How to Play
+Merge blocks to grow
+Cubes 2048 turns 2048 into a 3D .io game! Slide around the arena picking up blocks to get bigger. Picking up two of the same number will merge them into a single block as the total sum of both.
+
+Consume the competition
+In Cubes 2048.io, you can eat any number smaller than you - including your opponents. At the same time, you should be wary of bigger opponents coming to gobble you up or take a big chunk out of your block supply!
+
+Tips and Tricks
+You can cut into opponents and take their blocks as long as those blocks are smaller
+Use the speed power-up to catch up quickly with your opponents
+Use your general boost to escape and catch up to other players
+Avoid the division sign because this will halve your numbers
+PC
+Move fast by holding left-click or space bar. After 2 seconds of going fast, you need to wait 6 seconds to cool down.
+
+Mobile
+Move fast with an on-screen speed-up button. After 2 seconds of going fast, you need to wait 6 seconds to cool down.
+
+Features
+Play online in a large multiplayer arena
+Compete with others on the real-time leaderboard
+Use various power-ups to boost your performance
+Play Cubes 2048 on desktop and mobile devices
+Release Date
+December 2022
+
+Developer
+Playmost Games made Cubes 2048.io.
+
+Platform
+Web browser (desktop and mobile)
+
+Last Updated
+Mar 17, 2023
+
+Controls
+PC
+Move mouse = change direction
+Hold left-click or space bar = speed up
+Mobile
+Drag = move
+Click the on-screen button = speed up
